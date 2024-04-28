@@ -1,0 +1,9 @@
+Bonjour, je suis un bot croupier!
+    Avec moi vous pouvez jouer a un poker a 7 cartes !
+Pour jouer utiliser les commandes suivantes :
+    1. >hello - cette commande permet de lancer le jeux si on le souhaite
+    2. >initial_pari - lance le 1er paris de 25 jetons a chaque joueurs
+    3. >start - lance la partie de jeux (distribue les cartes)
+    4. >support - indique votre main 
+
+Les auteurs: Anton HLADYSHEV, Leo Moutinho Marta
